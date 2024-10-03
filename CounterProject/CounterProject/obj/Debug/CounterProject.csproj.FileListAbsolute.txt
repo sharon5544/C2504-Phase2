@@ -1,0 +1,15 @@
+C:\Users\2021509\source\repos\CounterProject\CounterProject\bin\Debug\CounterProject.exe.config
+C:\Users\2021509\source\repos\CounterProject\CounterProject\bin\Debug\CounterProject.exe
+C:\Users\2021509\source\repos\CounterProject\CounterProject\bin\Debug\CounterProject.pdb
+C:\Users\2021509\source\repos\CounterProject\CounterProject\obj\Debug\CounterProject.csproj.AssemblyReference.cache
+C:\Users\2021509\source\repos\CounterProject\CounterProject\obj\Debug\MainWindow.g.cs
+C:\Users\2021509\source\repos\CounterProject\CounterProject\obj\Debug\App.g.cs
+C:\Users\2021509\source\repos\CounterProject\CounterProject\obj\Debug\CounterProject_MarkupCompile.cache
+C:\Users\2021509\source\repos\CounterProject\CounterProject\obj\Debug\CounterProject_MarkupCompile.lref
+C:\Users\2021509\source\repos\CounterProject\CounterProject\obj\Debug\MainWindow.baml
+C:\Users\2021509\source\repos\CounterProject\CounterProject\obj\Debug\CounterProject.g.resources
+C:\Users\2021509\source\repos\CounterProject\CounterProject\obj\Debug\CounterProject.Properties.Resources.resources
+C:\Users\2021509\source\repos\CounterProject\CounterProject\obj\Debug\CounterProject.csproj.GenerateResource.cache
+C:\Users\2021509\source\repos\CounterProject\CounterProject\obj\Debug\CounterProject.csproj.CoreCompileInputs.cache
+C:\Users\2021509\source\repos\CounterProject\CounterProject\obj\Debug\CounterProject.exe
+C:\Users\2021509\source\repos\CounterProject\CounterProject\obj\Debug\CounterProject.pdb
