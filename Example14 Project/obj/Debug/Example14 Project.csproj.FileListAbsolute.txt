@@ -1,0 +1,37 @@
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\bin\Debug\Example14 Project.exe
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\bin\Debug\Example14 Project.exe.config
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\Example14 Project.csproj.AssemblyReference.cache
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\Image.g.cs
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\LinearGradient.g.cs
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\MainWindow.g.cs
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\RadialGradient.g.cs
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\Solid.g.cs
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\Visual.g.cs
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\App.g.cs
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\Example14 Project_MarkupCompile.cache
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\Example14 Project_MarkupCompile.lref
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\Image.baml
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\LinearGradient.baml
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\MainWindow.baml
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\RadialGradient.baml
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\Solid.baml
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\Visual.baml
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\Example14 Project.g.resources
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\Example14_Project.Properties.Resources.resources
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\Example14 Project.csproj.GenerateResource.cache
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\Example14 Project.csproj.CoreCompileInputs.cache
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\Example14 Project.exe
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\Example14 Project.pdb
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\bin\Debug\Example14 Project.pdb
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\Canvas.g.cs
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\Dock.g.cs
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\Grid.g.cs
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\Stack.g.cs
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\Wrap.g.cs
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\Canvas.baml
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\Dock.baml
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\Grid.baml
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\Stack.baml
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\Wrap.baml
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\EditorWindow.g.cs
+C:\Users\2021509\source\repos\Example13ProjectSolution\Example14 Project\obj\Debug\EditorWindow.baml

@@ -1,0 +1,26 @@
+﻿<Window x:Class="Example14_Project.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Example14_Project"
+        mc:Ignorable="d"
+        Title="Brushes and Panels" Height="450" Width="800" Closed="Window_Closed">
+
+    <Canvas>
+        <Button x:Name="btnSolidColor" Content="Solid Colour" Canvas.Left="60" Canvas.Top="68" Height="45" Width="133" FontSize="18" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Top" Click="btnSolidColor_Click"/>
+        <Button x:Name="btnLinearGradient" Content="Linear Gradient" Canvas.Left="309" Canvas.Top="70" Height="45" Width="150" FontSize="18" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Top" Click="btnLinearGradient_Click"/>
+        <Button x:Name="btnRadialGradient" Content="Radial Gradient" Canvas.Left="554" Canvas.Top="69" Height="45" Width="145" FontSize="18" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Top" Click="btnRadialGradient_Click"/>
+        <Button x:Name="btnImageBrush" Content="Image Brush" Canvas.Left="60" Canvas.Top="130" Height="45" Width="133" FontSize="18" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Top" Click="btnImageBrush_Click"/>
+        <Button x:Name="btnVisualBrush" Content="Visual Brush" Canvas.Left="309" Canvas.Top="130" Height="45" Width="150" FontSize="18" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Top" Click="btnVisualBrush_Click"/>
+        <TextBlock x:Name="lblBrushes" Canvas.Left="75" TextWrapping="Wrap" Text="Brushes" Canvas.Top="28" Height="26" Width="88" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="16"/>
+        <Button x:Name="btnStack" Content="Stack" Canvas.Left="60" Canvas.Top="278" Height="41" Width="134" FontSize="18" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Top" Click="btnStack_Click"/>
+        <Button x:Name="btnWrap" Content="Wrap" Canvas.Left="311" Canvas.Top="282" Height="37" Width="144" FontSize="18" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Top" Click="btnWrap_Click"/>
+        <Button x:Name="btnCanvas" Content="Canvas" Canvas.Left="559" Canvas.Top="280" Height="39" Width="134" FontSize="18" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Top" Click="btnCanvas_Click"/>
+        <Button x:Name="btnGrid" Content="Grid" Canvas.Left="60" Canvas.Top="340" Height="37" Width="132" FontSize="18" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Top" Click="btnGrid_Click"/>
+        <Button x:Name="btnDock" Content="Dock" Canvas.Left="311" Canvas.Top="340" Height="37" Width="148" FontSize="18" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Center" Click="btnDock_Click"/>
+        <TextBlock x:Name="lblPanels" Canvas.Left="75" TextWrapping="Wrap" Text="Panels" Canvas.Top="232" Height="24" Width="88" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="16"/>
+        <Button x:Name="btnEditor" Content="Editor" Canvas.Left="559" Canvas.Top="130" Height="45" Width="140" FontSize="18" FontWeight="Bold" Click="btnEditor_Click" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+
+    </Canvas>
+</Window>

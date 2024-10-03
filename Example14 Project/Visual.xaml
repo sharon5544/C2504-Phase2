@@ -1,0 +1,30 @@
+﻿<Window x:Class="Example14_Project.Visual"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Example14_Project"
+        mc:Ignorable="d"
+        Title="Visual" Height="450" Width="800" Closing="Window_Closing">
+    <Canvas>
+        <Rectangle Height="105" Canvas.Left="154" Stroke="Black" Canvas.Top="125" Width="222" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <Rectangle.Fill>
+                <VisualBrush>
+                    <VisualBrush.Visual>
+                        <TextBlock Text="Hello World" Foreground="Red" FontSize="30"/>
+                    </VisualBrush.Visual>
+                </VisualBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+
+        <Ellipse Height="155" Canvas.Left="418" Stroke="Black" Canvas.Top="89" Width="253" HorizontalAlignment="Left" VerticalAlignment="Center">
+            <Ellipse.Fill>
+                <VisualBrush>
+                    <VisualBrush.Visual>
+                        <TextBlock Text="Hello World" Foreground="Red" FontSize="30"/>
+                    </VisualBrush.Visual>
+                </VisualBrush>
+            </Ellipse.Fill>
+        </Ellipse>
+    </Canvas>
+</Window>

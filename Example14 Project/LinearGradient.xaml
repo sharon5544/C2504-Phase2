@@ -1,0 +1,29 @@
+﻿<Window x:Class="Example14_Project.LinearGradient"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Example14_Project"
+        mc:Ignorable="d"
+        Title="LinearGradient" Height="450" Width="800" Closing="Window_Closing">
+    <Canvas>
+        <Rectangle Height="79" Canvas.Left="159" Stroke="Black" Canvas.Top="63" Width="162">
+            <Rectangle.Fill>
+                <LinearGradientBrush  StartPoint="0,0" EndPoint="1,1">
+                <GradientStop Color="DarkMagenta" Offset="1"/>
+                <GradientStop Color="DarkSlateBlue"  Offset="0"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+
+        <Ellipse Height="79" Canvas.Left="426" Stroke="Black" Canvas.Top="63" Width="107" HorizontalAlignment="Left" VerticalAlignment="Center">
+            <Ellipse.Fill>
+                <LinearGradientBrush  StartPoint="0,0" EndPoint="1,1">
+                <GradientStop Color="DarkMagenta" Offset="1"/>
+                    <GradientStop Color="Gray"  Offset="0"/>
+                </LinearGradientBrush>
+            </Ellipse.Fill>
+        </Ellipse>
+
+    </Canvas>
+</Window>
