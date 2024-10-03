@@ -1,0 +1,18 @@
+﻿<Window x:Class="EditorProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EditorProject"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Canvas>
+        <Button x:Name="btnOpen" Content="Open..." Canvas.Left="109" Canvas.Top="106" Height="40" Width="102" Click="btnOpen_Click" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <Button x:Name="btnSave" Content="Save..." Canvas.Left="268" Canvas.Top="106" Height="40" Width="102" HorizontalAlignment="Left" VerticalAlignment="Center" Click="btnSave_Click"/>
+        <Button x:Name="btnFont" Content="Font..." Canvas.Left="426" Canvas.Top="106" Height="40" Width="102" HorizontalAlignment="Left" VerticalAlignment="Center" Click="btnFont_Click"/>
+        <Button x:Name="btnColor" Content="Color..." Canvas.Left="578" Canvas.Top="106" Height="40" Width="102" HorizontalAlignment="Left" VerticalAlignment="Center" Click="btnColor_Click"/>
+        <TextBox x:Name="txtEditor" Height="107" AcceptsReturn="True" Canvas.Left="109" TextWrapping="Wrap" Text="C# and WPF" Canvas.Top="200" Width="571" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+
+    </Canvas>
+</Window>
