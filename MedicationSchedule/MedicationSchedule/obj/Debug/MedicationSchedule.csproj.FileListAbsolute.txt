@@ -1,0 +1,15 @@
+C:\Users\2021509\source\repos\MedicationSchedule\MedicationSchedule\bin\Debug\MedicationSchedule.exe.config
+C:\Users\2021509\source\repos\MedicationSchedule\MedicationSchedule\bin\Debug\MedicationSchedule.exe
+C:\Users\2021509\source\repos\MedicationSchedule\MedicationSchedule\bin\Debug\MedicationSchedule.pdb
+C:\Users\2021509\source\repos\MedicationSchedule\MedicationSchedule\obj\Debug\MedicationSchedule.csproj.AssemblyReference.cache
+C:\Users\2021509\source\repos\MedicationSchedule\MedicationSchedule\obj\Debug\MainWindow.g.cs
+C:\Users\2021509\source\repos\MedicationSchedule\MedicationSchedule\obj\Debug\App.g.cs
+C:\Users\2021509\source\repos\MedicationSchedule\MedicationSchedule\obj\Debug\MedicationSchedule_MarkupCompile.cache
+C:\Users\2021509\source\repos\MedicationSchedule\MedicationSchedule\obj\Debug\MedicationSchedule_MarkupCompile.lref
+C:\Users\2021509\source\repos\MedicationSchedule\MedicationSchedule\obj\Debug\MainWindow.baml
+C:\Users\2021509\source\repos\MedicationSchedule\MedicationSchedule\obj\Debug\MedicationSchedule.g.resources
+C:\Users\2021509\source\repos\MedicationSchedule\MedicationSchedule\obj\Debug\MedicationSchedule.Properties.Resources.resources
+C:\Users\2021509\source\repos\MedicationSchedule\MedicationSchedule\obj\Debug\MedicationSchedule.csproj.GenerateResource.cache
+C:\Users\2021509\source\repos\MedicationSchedule\MedicationSchedule\obj\Debug\MedicationSchedule.csproj.CoreCompileInputs.cache
+C:\Users\2021509\source\repos\MedicationSchedule\MedicationSchedule\obj\Debug\MedicationSchedule.exe
+C:\Users\2021509\source\repos\MedicationSchedule\MedicationSchedule\obj\Debug\MedicationSchedule.pdb
